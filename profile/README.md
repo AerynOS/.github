@@ -2,7 +2,7 @@
 
 Welcome to the development home of AerynOS - a modern, innovative, and forward-thinking Linux distribution.
 
-![Screenshot From 2024-12-05 11-42-07](https://github.com/user-attachments/assets/3bb12d8f-4c45-4c52-83da-f0d83bcc6b92)
+![Screenshot From 2025-02-15 00-11-03](https://github.com/user-attachments/assets/74416db7-3eba-4c0b-b14d-037ef83731b0)
 
 
 ## 🧾 Recipes
