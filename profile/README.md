@@ -23,6 +23,6 @@ Note: Documentation site is in the process of porting to AerynOS branding
 
 - [Homepage](https://serpentos.com): Old website until new website is up
 - [Discussions](https://github.com/orgs/AerynOS/discussions): Join in the discussion
-- [Sponsorship](https://github.com/sponsors/ikeycode?o=sd&sc=t): Support the development of Serpent OS.
-- [Onboarding Instructions](https://github.com/AerynOS/os-tools/#onboarding): Get started with Serpent OS development.
+- [Sponsorship](https://github.com/sponsors/ikeycode?o=sd&sc=t): Support the development of AerynOS
+- [Onboarding Instructions](https://github.com/AerynOS/os-tools/#onboarding): Get started with AerynOS development.
 - [Contributor agreement](https://gist.github.com/ikeycode/788ff52526114f67a9bab3304f7f1134)
