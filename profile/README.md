@@ -13,15 +13,15 @@ Head over to our [recipes](https://github.com/AerynOS/recipes) repository if you
 
 Our powerful tools, `moss` and `boulder`, are hosted in the [os-tools](https://github.com/AerynOS/os-tools) repository. These tools are designed to streamline your development experience with AerynOS.
 
-## 📚 Documentation (on pause)
+## 📚 Documentation
 
-Dive into the [Serpent OS documentation](https://serpentos.com/docs) to get started. Contributors can submit PRs to the documentation in the [serpentos.com](https://github.com/serpent-os/serpentos.com) repository.
+Dive into the [AerynOS documentation](https://aerynos.dev) to get started. Contributors can submit PRs to the documentation in the [aerynos.dev](https://github.com/AerynOS/dotdev) repository.
 
 Note: Documentation site is in the process of porting to AerynOS branding
 
 ## 🔗 Important Links
 
-- [Homepage](https://serpentos.com): Old website until new website is up
+- [Homepage](https://aerynos.com): Main website
 - [Discussions](https://github.com/orgs/AerynOS/discussions): Join in the discussion
 - [Sponsorship](https://github.com/sponsors/ikeycode?o=sd&sc=t): Support the development of AerynOS
 - [Onboarding Instructions](https://github.com/AerynOS/os-tools/#onboarding): Get started with AerynOS development.
