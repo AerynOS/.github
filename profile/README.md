@@ -1,9 +1,8 @@
-# Welcome to AerynOS (formerly Serpent OS)
+# Welcome to AerynOS
 
 Welcome to the development home of AerynOS - a modern, innovative, and forward-thinking Linux distribution.
 
 ![Screenshot From 2025-02-15 00-11-03](https://github.com/user-attachments/assets/74416db7-3eba-4c0b-b14d-037ef83731b0)
-
 
 ## 🧾 Recipes
 
