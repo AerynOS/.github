@@ -16,7 +16,7 @@ Here is a list of helpful resources you can consult:
 
 ## Documentation
 
-- [aerynos.dev](https://aerynos.dev/) - Documentation about the ideas behind the OS, the packaging process and some other things
+- [aerynos.dev](https://aerynos.dev/) - Documentation about the ideas behind the OS, the packaging process and some other things.
 
 ## Chat Rooms
 
@@ -31,7 +31,7 @@ All of these are part of the [AerynOS Matrix space](https://matrix.to/#/#aerynos
 
 If you find any bugs, inconsistencies or other problems, feel free to submit
 a GitHub issue on the appropriate repository.
-If you don't know which one that is, you can ask in the "General" Matrix,
+If you don't know which one that is, you can ask in the "General" Matrix room,
 or just take your best guess (we can move the issue afterwards if it's in the wrong place).
 
 Also, if you have trouble getting on board, let us know
