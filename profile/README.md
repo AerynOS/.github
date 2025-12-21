@@ -31,7 +31,7 @@ Contributors can submit PRs to documentation in the [dotdev](https://github.com/
 
 AerynOS uses a mono-repo approach for our [recipes](https://github.com/AerynOS/recipes) repository. Our focus is squarely on maintaining our currently supported Desktop stacks + development tooling.
 
-For the curious amongst you, you can head to our recipes repository to find out more about the packages we currently offer and for guidance on how to package for AerynOS.
+For the curious amongst you, you can head over to our recipes repository to find out more about the packages we currently offer and for guidance on how to package for AerynOS.
 
 ## 🔗 Important Links
 
