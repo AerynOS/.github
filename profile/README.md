@@ -25,7 +25,7 @@ Written in Rust and currently in active development to flesh out features and ca
 
 Dive into our [documentation](https://aerynos.dev) website to learn more about our philosophy, packaging guidelines and find other helpful information.
 
-Contributors can submit PRs to documentation in the [dotdev](https://github.com/AerynOS/dotdev) repository that once approved, will reflect on our documentation website.
+Contributors can submit PRs to documentation in the [dotdev](https://github.com/AerynOS/dotdev) repository that, once approved, will reflect on our documentation website.
 
 ## 🧾 Recipes
 
