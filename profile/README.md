@@ -10,7 +10,7 @@ All of our tooling is being built from the ground up, predominately using Rust w
 
 Our [os-tools](https://github.com/AerynOS/os-tools):
 
-- moss - system state and package manager
+- moss - system state & package manager
 - boulder - moss-format build tool
 
 Our [infrastructure](https://github.com/AerynOS/infra) tooling:
