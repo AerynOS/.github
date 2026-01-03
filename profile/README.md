@@ -1,10 +1,13 @@
-# Welcome to AerynOS
+<p align="center" style="margin-bottom:0;">
+  <img src="https://aerynos.com/_astro/logo.CJzNXi05.svg" alt="AerynOS logo" width="200">
+</p>
+<h1 align="center" style="margin-top:0;">
+  AerynOS
+</h1>
 
 Welcome to the development home of AerynOS. Currently, AerynOS should be considered an in-development, Alpha quality, tech preview Linux distribution, which primarily exists to prove out our tooling approach at this point in time.
 
 All of our tooling is being built from the ground up, predominately using Rust with an aim to solve issues prevalent with Linux Distributions at the tooling level. By starting from the ground up, we are able to combine existing approaches with new solutions in novel ways to eventually deliver a technology stack that will make developing and maintaining a Linux distribution a much easier endeavour.
-
-![Screenshot From 2025-02-15 00-11-03](https://github.com/user-attachments/assets/74416db7-3eba-4c0b-b14d-037ef83731b0)
 
 ## 🛠 Tooling
 
