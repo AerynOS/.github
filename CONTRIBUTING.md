@@ -1,51 +1,52 @@
-Welcome! Thanks for showing interest in contributing to our project!
+Thanks for your interest in contributing to AerynOS.
 
 # Table of Contents
 
-- [Looking for Help?](#looking-for-help)
+- [Getting Help](#getting-help)
   - [Documentation](#documentation)
-  - [Chat Rooms](#chat-rooms)
+  - [Chat](#chat)
+- [Ways to Contribute Beyond Code](#ways-to-contribute-beyond-code)
 - [Reporting Issues](#reporting-issues)
 - [Submitting Code](#submitting-code)
   - [Coding Style](#coding-style)
   - [Submitting PRs](#submitting-prs)
 
-# Looking for Help?
-
-Here is a list of helpful resources you can consult:
+# Getting Help
 
 ## Documentation
 
-- [aerynos.dev](https://aerynos.dev/) - Documentation about the ideas behind the OS, the packaging process and some other things.
+- [aerynos.dev](https://aerynos.dev/) - Documentation about the ideas behind the OS, the packaging process, and other core concepts.
 
-## Chat Rooms
+## Chat
 
-All of these are part of the [AerynOS Matrix space](https://matrix.to/#/#aerynos:matrix.org).
+All discussion takes place in the [AerynOS Zulip organization](https://aerynos.zulipchat.com/).
 
-- General Matrix room: [#AerynOS:matrix.org](https://matrix.to/#/#AerynOS:matrix.org)
-- Development Matrix room: [#AerynOS-Dev:matrix.org](https://matrix.to/#/#AerynOS-Dev:matrix.org)
-- Documentation Matrix room: [#aerynos-documentation:matrix.org](https://matrix.to/#/#aerynos-documentation:matrix.org)
-- Webdev Matrix room: [#AerynOS-web:matrix.org](https://matrix.to/#/#AerynOS-web:matrix.org)
+- [General Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543066-General/topic//with/565983725)
+- [Development Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543142-Development/topic//with/565911053)
+- [Documentation Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543227-Documentation/topic//with/566079322)
+- [Webdev Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543225-Web-Development)
+- [Packaging Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543228-Packaging/topic//with/566120303)
+
+# Ways to Contribute Beyond Code
+Contributions are not limited to code. We welcome help with documentation, translations, testing, user feedback, design, and community support. If you’re unsure where to start, ask in the General Zulip channel.
 
 # Reporting Issues
 
 If you find any bugs, inconsistencies or other problems, feel free to submit
 a GitHub issue on the appropriate repository.
-If you don't know which one that is, you can ask in the "General" Matrix room,
-or just take your best guess (we can move the issue afterwards if it's in the wrong place).
+If you’re unsure which repository is appropriate, ask in the General Zulip channel or open the issue where it seems most relevant — we can move it if needed.
 
-Also, if you have trouble getting on board, let us know
-so we can help future contributors to the project overcome that hurdle too.
+If you run into problems getting started, let us know — improving the contributor experience is important to us. Please search for existing issues before opening a new one.
 
 # Submitting Code
 
-Ready to contribute some code? Great! Here are some guidelines to follow to help you on your way:
+Ready to contribute code? The following guidelines should help you get started.
 
 ## Coding Style
 
-In general, try to replicate the coding style that is already present.
+Follow the existing coding style and patterns used in the repository.
 
-We use [rustfmt] to ensure consistent formatting code and [clippy]
+We use [rustfmt] to ensure consistent code formatting and [clippy]
 to catch common mistakes not caught by the compiler
 as well as enforcing a few custom code style choices.
 
@@ -63,4 +64,5 @@ You can ignore those, or try to fix them as a separate contribution.
 
 Once you're ready to submit your code, create a pull request,
 and one of our maintainers will review it.
+Reviews may take some time depending on maintainer availability.
 Once your PR has passed review, a maintainer will merge it and you're done! 🎉
