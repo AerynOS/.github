@@ -29,6 +29,10 @@ All discussion takes place in the [AerynOS Zulip organization](https://aerynos.z
 - [Webdev Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543225-Web-Development)
 - [Packaging Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543228-Packaging/topic//with/566120303)
 
+Please note that while the Zulip channels are publicly viewable, the AerynOS team has implemented a role-based system to determine who can take part in certain channels. 
+
+Everyone who has joined the Zulip server will be able to engage in our "General - Public" channels. Those who have demonstrated their interest in contributing to the project will subsequently be granted access to the "Trusted Contributor" role, which will allow them to take part in the "Development", " Documentation", "Web Development", and "Packaging" channels.
+
 # Ways to Contribute Beyond Code
 Contributions are not limited to code. We welcome help with documentation, translations, testing, user feedback, design, and community support. If you’re unsure where to start, ask in the General Zulip channel.
 
@@ -94,3 +98,8 @@ AerynOS's documentation.
 Support requests referencing misleading or false LLM output relating to the
 project may be ignored, since it is a waste of time for us to "debug" where
 things went wrong based on this output before human support was sought.
+Once you're ready to submit your code, create a pull request, and one of our maintainers will review it. 
+
+For additional guidance on how to write a good commit message, please refer to our [documentation site](https://aerynos.dev/packaging/workflow/submitting-a-pr/).
+
+Reviews may take some time depending on maintainer availability. Once your PR has passed review, a maintainer will merge it and you're done! 🎉
