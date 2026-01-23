@@ -68,10 +68,9 @@ You can ignore those, or try to fix them as a separate contribution.
 
 ## Submitting PRs
 
-Once you're ready to submit your code, create a pull request,
-and one of our maintainers will review it.
-Reviews may take some time depending on maintainer availability.
-Once your PR has passed review, a maintainer will merge it and you're done! 🎉
+Once you're ready to submit your code, create a pull request, and one of our maintainers will review it. For additional guidance on how to write a good commit message, please refer to our [documentation site](https://aerynos.dev/packaging/workflow/submitting-a-pr/).
+
+Reviews may take some time depending on maintainer availability. Once your PR has passed review, a maintainer will merge it and you're done! 🎉
 
 # LLM Contributions
 
@@ -98,8 +97,4 @@ AerynOS's documentation.
 Support requests referencing misleading or false LLM output relating to the
 project may be ignored, since it is a waste of time for us to "debug" where
 things went wrong based on this output before human support was sought.
-Once you're ready to submit your code, create a pull request, and one of our maintainers will review it. 
-
-For additional guidance on how to write a good commit message, please refer to our [documentation site](https://aerynos.dev/packaging/workflow/submitting-a-pr/).
-
-Reviews may take some time depending on maintainer availability. Once your PR has passed review, a maintainer will merge it and you're done! 🎉
+Once you're ready to submit your code, create a pull request, and one of our maintainers will review it.
