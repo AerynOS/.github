@@ -27,9 +27,9 @@ All discussion takes place in the [AerynOS Zulip organization](https://aerynos.z
 - [Webdev Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543225-Web-Development)
 - [Packaging Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543228-Packaging/topic//with/566120303)
 
-Please note that while the Zulip channels are publicly viewable, the AerynOS team has implemented a roles based system to determine who can take part in certain channels. 
+Please note that while the Zulip channels are publicly viewable, the AerynOS team has implemented a role-based system to determine who can take part in certain channels. 
 
-Everyone who has joined the Zulip server will be able to engage in our "General - Public" channels. Those who have demonstrated their interest in contributing to the project will subseqnetly be granted access to the "Trusted Contributor" role which will allow them to take part in the "Development", " Documentation", "Web Development", and "Packaging" channels.
+Everyone who has joined the Zulip server will be able to engage in our "General - Public" channels. Those who have demonstrated their interest in contributing to the project will subsequently be granted access to the "Trusted Contributor" role, which will allow them to take part in the "Development", " Documentation", "Web Development", and "Packaging" channels.
 
 # Ways to Contribute Beyond Code
 Contributions are not limited to code. We welcome help with documentation, translations, testing, user feedback, design, and community support. If you’re unsure where to start, ask in the General Zulip channel.
