@@ -5,9 +5,11 @@
   AerynOS
 </h1>
 
-Welcome to the development home of AerynOS. Currently, AerynOS should be considered an in-development, Alpha quality, tech preview Linux distribution, which primarily exists to prove out our tooling approach at this point in time.
+Welcome to the development home of AerynOS.
 
-All of our tooling is being built from the ground up, predominately using Rust with an aim to solve issues prevalent with Linux Distributions at the tooling level. By starting from the ground up, we are able to combine existing approaches with new solutions in novel ways to eventually deliver a technology stack that will make developing and maintaining a Linux distribution a much easier endeavour.
+All of our tooling is being built from the ground up, predominately using Rust, with an aim to solve issues prevalent with Linux Distributions at the tooling level. By starting from the ground up, we are able to combine existing approaches with new solutions in novel ways to eventually deliver a technology stack that will make developing and maintaining a Linux distribution a much easier endeavour.
+
+At present, AerynOS should be considered an in-development, Alpha quality, tech preview Linux distribution, which primarily exists to prove out our tooling approach. We are working as hard as we can towards adding and stabilizin the necessary features for reaching Beta status.
 
 ## 🛠 Tooling
 
@@ -18,7 +20,7 @@ Our [os-tools](https://github.com/AerynOS/os-tools):
 
 Our [infrastructure](https://github.com/AerynOS/infra) tooling:
 
-- summit - build controller
+- summit - build controller and web dashboard
 - vessel - repo manager
 - avalanche - build worker middleware
 
