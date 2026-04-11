@@ -1,11 +1,13 @@
+<!--
 <p align="center" style="margin-bottom:0;">
   <img src="https://aerynos.com/_astro/logo.CYvMeVp-_Z2d3a74.svg" alt="AerynOS logo" width="200">
 </p>
+-->
 <h1 align="center" style="margin-top:0;">
   AerynOS
 </h1>
 
-Welcome to the development home of AerynOS.
+Welcome to the development home of Aeryn OS.
 
 All of our tooling is being built from the ground up, predominately using Rust, with an aim to solve issues prevalent with Linux Distributions at the tooling level. By starting from the ground up, we are able to combine existing approaches with new solutions in novel ways to eventually deliver a technology stack that will make developing and maintaining a Linux distribution a much easier endeavour.
 
