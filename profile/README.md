@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom:0;">
-  <img src="https://aerynos.com/_astro/logo.CJzNXi05.svg" alt="AerynOS logo" width="200">
+  <img src="https://aerynos.com/_astro/logo.CYvMeVp-_Z2d3a74.svg" alt="AerynOS logo" width="200">
 </p>
 <h1 align="center" style="margin-top:0;">
   AerynOS
