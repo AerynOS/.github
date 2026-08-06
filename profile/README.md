@@ -4,7 +4,7 @@
 </p>
 -->
 <h1 align="center" style="margin-top:0;">
-  AerynOS
+  aerynOS
 </h1>
 
 Welcome to the development home of aerynOS.
