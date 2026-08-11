@@ -1,4 +1,4 @@
-Thanks for your interest in contributing to AerynOS.
+Thanks for your interest in contributing to aerynOS.
 
 # Table of Contents
 
@@ -21,7 +21,7 @@ Thanks for your interest in contributing to AerynOS.
 
 ## Chat
 
-All discussion takes place in the [AerynOS Zulip organization](https://aerynos.zulipchat.com/).
+All discussion takes place in the [aerynOS Zulip organization](https://aerynos.zulipchat.com/).
 
 - [General Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543066-General/topic//with/565983725)
 - [Development Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543142-Development/topic//with/565911053)
@@ -29,7 +29,7 @@ All discussion takes place in the [AerynOS Zulip organization](https://aerynos.z
 - [Webdev Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543225-Web-Development)
 - [Packaging Zulip channel](https://aerynos.zulipchat.com/#narrow/channel/543228-Packaging/topic//with/566120303)
 
-Please note that while the Zulip channels are publicly viewable, the AerynOS team has implemented a role-based system to determine who can take part in certain channels. 
+Please note that while the Zulip channels are publicly viewable, the aerynOS team has implemented a role-based system to determine who can take part in certain channels. 
 
 Everyone who has joined the Zulip server will be able to engage in our "General - Public" channels. Those who have demonstrated their interest in contributing to the project will subsequently be granted access to the "Trusted Contributor" role, which will allow them to take part in the "Development", " Documentation", "Web Development", and "Packaging" channels.
 
@@ -40,9 +40,9 @@ Contributions are not limited to code. We welcome help with documentation, trans
 
 If you find any bugs, inconsistencies or other problems, feel free to submit
 a GitHub issue on the appropriate repository.
-If you’re unsure which repository is appropriate, ask in the General Zulip channel or open the issue where it seems most relevant — we can move it if needed.
+If you’re unsure which repository is appropriate, ask in the General Zulip channel or open the issue where it seems most relevant, we can move it if needed.
 
-If you run into problems getting started, let us know — improving the contributor experience is important to us. Please search for existing issues before opening a new one.
+If you run into problems getting started, let us know, improving the contributor experience is important to us. Please search for existing issues before opening a new one.
 
 # Submitting Code
 
@@ -91,8 +91,7 @@ English. We may make more exceptions for other accessibility-related uses.
 
 ## Project-related use of LLMs
 
-We heavily discourage the use of LLM chat bots as a replacement for reading
-AerynOS's documentation.
+We heavily discourage the use of LLM chat bots as a replacement for reading aerynOS's documentation.
 
 Support requests referencing misleading or false LLM output relating to the
 project may be ignored, since it is a waste of time for us to "debug" where
