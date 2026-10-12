@@ -9,7 +9,7 @@
 
 Welcome to the development home of aerynOS.
 
-All of our tooling is being built from the ground up, predominately using Rust, with an aim to solve issues prevalent with Linux Distributions at the tooling level. By starting from the ground up, we are able to combine existing approaches with new solutions in novel ways to eventually deliver a technology stack that will make developing and maintaining a Linux distribution a much easier endeavour.
+All of our tooling is being built from the ground up, predominately using Rust, with an aim to solve issues prevalent with Linux Distributions at the tooling level. By starting from the ground up, we are able to combine existing approaches with new solutions in novel ways to eventually deliver a technology stack that will make developing and maintaining a Linux distribution a much easier endeavor.
 
 At present, aerynOS should be considered an in-development, Alpha quality, tech preview Linux distribution, which primarily exists to prove out our tooling approach. We are working as hard as we can towards adding and stabilizing the necessary features for reaching Beta status.
 
@@ -30,9 +30,9 @@ Written in Rust and currently in active development to flesh out features and ca
 
 ## 📚 Documentation
 
-Dive into our [documentation](https://aerynos.dev) website to learn more about our philosophy, packaging guidelines and find other helpful information.
+Dive into our [documentation](https://aerynos.com/aerynos) website to learn more about our philosophy, packaging guidelines and find other helpful information.
 
-Contributors can submit PRs to documentation in the [dotdev](https://github.com/aerynOS/dotdev) repository that, once approved, will reflect on our documentation website.
+Contributors can submit PRs to documentation in the [dotcom](https://github.com/aerynOS/dotcom) repository that, once approved, will reflect on our documentation website.
 
 ## 🧾 Recipes
 
